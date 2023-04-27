@@ -1,0 +1,236 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SyntaxHighlighter component > Single language editor just displays label for current language 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="cm-theme-light"
+        style="height: 100%;"
+      >
+        <div
+          class="cm-editor ͼo ͼp ͼr ͼ20 ͼ21"
+        >
+          <div
+            aria-live="polite"
+            style="position: fixed; top: -10000px;"
+          />
+          <div
+            class="cm-scroller"
+            tabindex="-1"
+          >
+            <div
+              aria-hidden="true"
+              class="cm-gutters"
+              style="min-height: 14px; position: sticky;"
+            >
+              <div
+                class="cm-gutter cm-lineNumbers"
+              >
+                <div
+                  class="cm-gutterElement"
+                  style="height: 0px; visibility: hidden; pointer-events: none;"
+                >
+                  9
+                </div>
+                <div
+                  class="cm-gutterElement cm-activeLineGutter"
+                  style="height: 14px;"
+                >
+                  1
+                </div>
+              </div>
+              <div
+                class="cm-gutter cm-foldGutter"
+              >
+                <div
+                  class="cm-gutterElement"
+                  style="height: 0px; visibility: hidden; pointer-events: none;"
+                >
+                  <span
+                    title="Unfold line"
+                  >
+                    ›
+                  </span>
+                </div>
+                <div
+                  class="cm-gutterElement cm-activeLineGutter"
+                  style="height: 14px;"
+                />
+              </div>
+            </div>
+            <div
+              aria-autocomplete="list"
+              aria-multiline="true"
+              autocapitalize="off"
+              autocorrect="off"
+              class="cm-content"
+              contenteditable="true"
+              role="textbox"
+              spellcheck="false"
+              style="tab-size: 4"
+              translate="no"
+            >
+              <div
+                class="cm-activeLine cm-line"
+              >
+                meh;
+              </div>
+            </div>
+            <div
+              aria-hidden="true"
+              class="cm-layer cm-layer-above cm-cursorLayer"
+              style="z-index: 150; animation-duration: 1200ms;"
+            />
+            <div
+              aria-hidden="true"
+              class="cm-layer cm-selectionLayer"
+              style="z-index: -2;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="cm-theme-light"
+      style="height: 100%;"
+    >
+      <div
+        class="cm-editor ͼo ͼp ͼr ͼ20 ͼ21"
+      >
+        <div
+          aria-live="polite"
+          style="position: fixed; top: -10000px;"
+        />
+        <div
+          class="cm-scroller"
+          tabindex="-1"
+        >
+          <div
+            aria-hidden="true"
+            class="cm-gutters"
+            style="min-height: 14px; position: sticky;"
+          >
+            <div
+              class="cm-gutter cm-lineNumbers"
+            >
+              <div
+                class="cm-gutterElement"
+                style="height: 0px; visibility: hidden; pointer-events: none;"
+              >
+                9
+              </div>
+              <div
+                class="cm-gutterElement cm-activeLineGutter"
+                style="height: 14px;"
+              >
+                1
+              </div>
+            </div>
+            <div
+              class="cm-gutter cm-foldGutter"
+            >
+              <div
+                class="cm-gutterElement"
+                style="height: 0px; visibility: hidden; pointer-events: none;"
+              >
+                <span
+                  title="Unfold line"
+                >
+                  ›
+                </span>
+              </div>
+              <div
+                class="cm-gutterElement cm-activeLineGutter"
+                style="height: 14px;"
+              />
+            </div>
+          </div>
+          <div
+            aria-autocomplete="list"
+            aria-multiline="true"
+            autocapitalize="off"
+            autocorrect="off"
+            class="cm-content"
+            contenteditable="true"
+            role="textbox"
+            spellcheck="false"
+            style="tab-size: 4"
+            translate="no"
+          >
+            <div
+              class="cm-activeLine cm-line"
+            >
+              meh;
+            </div>
+          </div>
+          <div
+            aria-hidden="true"
+            class="cm-layer cm-layer-above cm-cursorLayer"
+            style="z-index: 150; animation-duration: 1200ms;"
+          />
+          <div
+            aria-hidden="true"
+            class="cm-layer cm-selectionLayer"
+            style="z-index: -2;"
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
